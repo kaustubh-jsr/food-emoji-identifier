@@ -1,2 +1,2 @@
 # food-emoji-identifier
-Created with CodeSandbox
+First React App to understand the working of state, and implement a Food Emoji Identifier application.
